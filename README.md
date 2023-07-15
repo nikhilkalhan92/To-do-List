@@ -7,6 +7,9 @@ To Do List
 
 live website - https://to-do-list-drab-eta.vercel.app/
 
+Responsive on 4 devices - 
+![picture4](assets/picture4.png)
+
 You can add 3 items, cross out the ones you have done, and then delete it forever 
 
 I used HTML, CSS3 and Javascript to create this project
